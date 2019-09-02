@@ -1,3 +1,3 @@
 # Halite
 
-Halite is a modern list making app.
+A modern list maker.
